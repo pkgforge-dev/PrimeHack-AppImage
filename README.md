@@ -1,19 +1,19 @@
 <div align="center">
 
-# Dolphin-emu-AppImage 🐧
+# PrimeHack-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Dolphin-emu-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Dolphin-emu-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Dolphin-emu-AppImage)](https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/PrimeHack-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/PrimeHack-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/PrimeHack-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/PrimeHack-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/PrimeHack-AppImage)](https://github.com/pkgforge-dev/PrimeHack-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/dolphin-emu.png" width="128" />
+  <img src="https://raw.githubusercontent.com/shiiion/dolphin/primehack-master/Data/dolphin-emu.png" width="128" />
 </p>
 
 
 | Latest Stable Release | Latest Nightly Release | Upstream URL |
 | :---: | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/tag/nightly) | [Click here](https://github.com/dolphin-emu/dolphin) |
+| [Click here](https://github.com/pkgforge-dev/PrimeHack-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/PrimeHack-AppImage/releases/tag/nightly) | [Click here](https://github.com/shiiion/dolphin) |
 
 </div>
 
