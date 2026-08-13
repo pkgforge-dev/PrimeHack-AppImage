@@ -17,10 +17,7 @@ pacman -Syu --noconfirm \
 	lzo              \
 	lxqt-qtplugin    \
 	mesa             \
-	pipewire-audio   \
-	pipewire-jack    \
 	qt6ct            \
-	qt6-wayland      \
 	sdl3             \
 	speexdsp         \
 	vulkan-headers   \
