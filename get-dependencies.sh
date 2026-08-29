@@ -54,6 +54,7 @@ cd ./build
 git submodule update --init --recursive
 cmake .. \
 	-DDISTRIBUTOR=pkgforge-dev   \
+	-DDCMAKE_BUILD_TYPE=Release  \
 	-DCMAKE_INSTALL_PREFIX=/usr  \
 	-DENABLE_ANALYTICS=OFF       \
 	-DENABLE_LLVM=OFF            \
